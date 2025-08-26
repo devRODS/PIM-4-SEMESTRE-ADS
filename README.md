@@ -1,6 +1,6 @@
 # HelpDesk-IA (Web, Desktop, Mobile)
 
-Plataforma simples de HelpDesk com assistente de IA, disponível para Web, Desktop (Electron) e Mobile (FlutterFlow). Backend em C# (.NET 8) com MySQL.
+Plataforma de HelpDesk com assistente de IA, disponível para Web, Desktop (Electron) e Mobile (FlutterFlow). Backend em C# (.NET 8) com MySQL, com o intuito de suprir a demando dos chamados do cliente.
 
 ## Objetivo
 - Centralizar chamados (tickets)
