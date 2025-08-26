@@ -18,7 +18,7 @@ Plataforma de HelpDesk com assistente de IA, disponível para Web, Desktop (Elec
 1. Configure variáveis em appsettings.json (MySQL + Provider de IA opcional)
 2. dotnet restore
 3. dotnet ef database update (ou rode scripts/schema.mysql.sql)
-4. dotnet run (porta padrão: http://localhost:5179)
+4. dotnet run (porta padrão: 5819)
 
 ### Web
 1. Edite scripts/main.js e defina API_BASE_URL
