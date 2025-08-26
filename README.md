@@ -34,7 +34,7 @@ Esse processo garantirá um aprendizado contínuo por reforço, alimentando os m
 1. Edit index.html
 2. Edit /styles.css
 
-### Desktop (Electron)
+### Desktop (C#)
 1. npm install
 2. npm start
 
