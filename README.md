@@ -13,7 +13,7 @@ Plataforma de HelpDesk com assistente de IA, disponível para Web, Desktop (Elec
 - Desktop: Electron
 - Mobile: FlutterFlow
 
-## Como rodar (dev)
+
 ### Backend
 1. Configure variáveis em appsettings.json (MySQL + Provider de IA opcional)
 2. dotnet restore
@@ -35,8 +35,8 @@ Plataforma de HelpDesk com assistente de IA, disponível para Web, Desktop (Elec
 - Camada Services/AiService.cs com interface IAiProvider para plugar provedores (dummy por padrão).
 
 ## Contribuição
-- Padrão de commits: Conventional Commits simplificado
-- Flow de Branches: GitHub Flow (main estável, feature/*, PR + review)
+- Conventional Commits simplificado
+- GitHub Flow (main estável, feature/*, PR + review)
 
 ## Licença
 MIT
