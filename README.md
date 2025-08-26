@@ -58,5 +58,16 @@ MIT
 | --------------- | :-----------: | ------------------------------------------------ |
 | 🔖 **SPRINT 1** | 20/08 - 24/08 | Sprint 1 - Inicio do Front End Web| ✅
 | 🔖 **SPRINT 2** | 25/08 - 27/08 | Sprint 2 - Inicio do Mobile em FlutterFlow | ✅
-| 🔖 **SPRINT 3** | 03/09 - 08/09 | Sprint 3 |
+| 🔖 **SPRINT 3** | 03/09 - 08/09 | Sprint 3 
+
+
+## 📖 Manual de Instalação <a id="manual"></a>
+
+### 🛠 Pré-requisitos
+
+- Git ([Download](https://git-scm.com/downloads)
+- VsCode ([Download](https://code.visualstudio.com/download))
+- FlutterFlow ([Download](https://www.flutterflow.io/downloads))
+
+
 
