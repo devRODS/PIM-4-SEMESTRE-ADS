@@ -44,21 +44,14 @@ Esse processo garantirá um aprendizado contínuo por reforço, alimentando os m
 ## IA
 - Camada Services/AiService.cs com interface IAiProvider para plugar provedores (dummy por padrão).
 
-## Contribuição
-- Conventional Commits simplificado
-- GitHub Flow (main estável, feature/*, PR + review)
-
-## Licença
-MIT
-
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 20/08 - 24/08 | Sprint 1 - Inicio do Front End Web| ✅
-| 🔖 **SPRINT 2** | 25/08 - 27/08 | Sprint 2 - Inicio do Mobile em FlutterFlow | ✅
-| 🔖 **SPRINT 3** | 03/09 - 08/09 | Sprint 3 
+| 🔖 **SPRINT 1** | 20/08 - 24/08 | Inicio do Front End Web| ✅
+| 🔖 **SPRINT 2** | 25/08 - 27/08 | Inicio do Mobile em FlutterFlow | ✅
+| 🔖 **SPRINT 3** | 03/09 - 08/09 | ....
 
 
 ## 📖 Manual de Instalação <a id="manual"></a>
