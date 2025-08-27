@@ -12,6 +12,7 @@ O desafio consiste em desenvolver uma aplicação de helpdesk com inteligência 
 ## Backlog do Produto
 
 Gestão de Chamados
+
 História 1.1: Como usuário, quero acessar o sistema através de uma tela de login para garantir segurança e acesso autorizado.
 
 Tarefa 1.1.1: Criar a interface da tela de login com campos para usuário (email ou login) e senha.
