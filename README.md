@@ -3,7 +3,7 @@
 # DomRock AI - Auxia
 
 <p align="center">
-      <img src="docs/Img/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
+      ![BannerHelp](Header.png)
       <h2 align="center"> HelpDesk</h2>
 </p>
 
