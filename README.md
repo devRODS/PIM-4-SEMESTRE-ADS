@@ -4,7 +4,7 @@
 
 <p align="center">
       <img src="docs/Img/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
-      <h2 align="center"> Buzz Tech</h2>
+      <h2 align="center"> HelpDesk</h2>
 </p>
 
 <p align="center">
