@@ -82,10 +82,10 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
       <th>Linkedin</th>
     </tr>
     <tr>
-      <td>João Gabriel</td>
-      <td>Scrum Master</td>
-      <td><a href="https://github.com/dev-joaogabriel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="http://linkedin.com/in/joão-gabriel200301"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+      <td>Rodrigo Oliveira</td>
+      <td>DEV Team</td>
+      <td><a href="https://github.com/devRODS<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="http://linkedin.com/in/reosilva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
   </table>
 </div>
