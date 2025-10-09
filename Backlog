@@ -1,19 +1,20 @@
-📋 Backlog do Produto
-Tópico	User Story	Descrição	Prioridade
-Centralização do Atendimento	Como usuário, desejo registrar solicitações de suporte em uma única plataforma	Facilitar o registro e o acompanhamento das solicitações em um único ambiente.	Alta
-	Como técnico de TI, preciso visualizar todos os chamados em uma única fila organizada	Organizar e priorizar os atendimentos de maneira clara.	Alta
-	Como gerente, quero dashboards com status e quantidade de chamados atualizados em tempo real	Tomar decisões rápidas baseadas em dados recentes.	Média
-Automação do Atendimento	Como usuário, gostaria de receber respostas automáticas para problemas frequentes, usando uma base de conhecimento	Reduzir o tempo de espera com soluções imediatas e automatizadas.	Alta
-	Como técnico, desejo que a plataforma ofereça sugestões baseadas em inteligência artificial	Otimizar o trabalho dos técnicos com recomendações inteligentes.	Alta
-	Como gerente, quero automatizar tarefas repetitivas, como abrir e fechar chamados	Aumentar a eficiência no processo de atendimento.	Média
-Integração com Ferramentas	Como usuário, desejo abrir chamados diretamente pelo chat corporativo integrado	Facilitar o registro por meio dos canais já utilizados.	Média
-	Como técnico, quero integração com sistemas de inventário e gestão de ativos	Obter informações detalhadas para um suporte mais preciso.	Média
-	Como gerente, desejo integrar a plataforma com ferramentas de gerenciamento de projetos	Alinhar as demandas de TI com os projetos em andamento.	Baixa
-Inteligência Artificial	Como usuário, quero contar com um chatbot para resolver problemas simples	Solucionar questões sem necessidade de abrir chamados.	Alta
-	Como técnico, desejo que os chamados sejam analisados e categorizados automaticamente para o responsável correto	Atuar de forma preventiva para minimizar impactos.	Média
-	Como gerente, quero relatórios inteligentes para análise do atendimento	Melhorar continuamente o suporte com base em dados analíticos.	Média
-Experiência do Usuário	Como usuário, desejo uma interface simples e intuitiva para abrir e acompanhar chamados	Facilitar o uso e monitoramento dos atendimentos.	Alta
-	Como técnico, quero acesso rápido ao histórico e dados do usuário	Agilizar o atendimento com informações completas.	Alta
-	Como gerente, desejo configurar diferentes níveis de acesso e permissões	Garantir a segurança e controle sobre dados sensíveis.	Média
-Segurança e Compliance	Como empresa, preciso garantir criptografia e conformidade com LGPD/GDPR	Atender às normas de proteção de dados pessoais.	Alta
-	Como técnico, quero registros detalhados de acessos e modificações	Assegurar rastreabilidade e auditoria das ações realizadas.	Média
+## 📋 Backlog do Produto
+| Tópico                            | User Story                                                                                  | Descrição                                                                | Prioridade |
+| -------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------- |
+| **Centralização do Atendimento** | Como usuário, desejo registrar solicitações de suporte em uma única plataforma              | Facilitar o registro e o acompanhamento das solicitações em um único ambiente. | Alta       |
+|                                  | Como técnico de TI, preciso visualizar todos os chamados em uma única fila organizada       | Organizar e priorizar os atendimentos de maneira clara.                  | Alta       |
+|                                  | Como gerente, quero dashboards com status e quantidade de chamados atualizados em tempo real | Tomar decisões rápidas baseadas em dados recentes.                       | Média      |
+| **Automação do Atendimento**     | Como usuário, gostaria de receber respostas automáticas para problemas frequentes, usando uma base de conhecimento | Reduzir o tempo de espera com soluções imediatas e automatizadas.        | Alta       |
+|                                  | Como técnico, desejo que a plataforma ofereça sugestões baseadas em inteligência artificial | Otimizar o trabalho dos técnicos com recomendações inteligentes.         | Alta       |
+|                                  | Como gerente, quero automatizar tarefas repetitivas, como abrir e fechar chamados           | Aumentar a eficiência no processo de atendimento.                        | Média      |
+| **Integração com Ferramentas**   | Como usuário, desejo abrir chamados diretamente pelo chat corporativo integrado             | Facilitar o registro por meio dos canais já utilizados.                   | Média      |
+|                                  | Como técnico, quero integração com sistemas de inventário e gestão de ativos                | Obter informações detalhadas para um suporte mais preciso.               | Média      |
+|                                  | Como gerente, desejo integrar a plataforma com ferramentas de gerenciamento de projetos    | Alinhar as demandas de TI com os projetos em andamento.                  | Baixa      |
+| **Inteligência Artificial**      | Como usuário, quero contar com um chatbot para resolver problemas simples                   | Solucionar questões sem necessidade de abrir chamados.                   | Alta       |
+|                                  | Como técnico, desejo que os chamados sejam analisados e categorizados automaticamente para o responsável correto | Atuar de forma preventiva para minimizar impactos.                       | Média      |
+|                                  | Como gerente, quero relatórios inteligentes para análise do atendimento                    | Melhorar continuamente o suporte com base em dados analíticos.           | Média      |
+| **Experiência do Usuário**       | Como usuário, desejo uma interface simples e intuitiva para abrir e acompanhar chamados     | Facilitar o uso e monitoramento dos atendimentos.                         | Alta       |
+|                                  | Como técnico, quero acesso rápido ao histórico e dados do usuário                           | Agilizar o atendimento com informações completas.                        | Alta       |
+|                                  | Como gerente, desejo configurar diferentes níveis de acesso e permissões                    | Garantir a segurança e controle sobre dados sensíveis.                   | Média      |
+| **Segurança e Compliance**       | Como empresa, preciso garantir criptografia e conformidade com LGPD/GDPR                    | Atender às normas de proteção de dados pessoais.                          | Alta       |
+|                                  | Como técnico, quero registros detalhados de acessos e modificações                         | Assegurar rastreabilidade e auditoria das ações realizadas.              | Média      |
