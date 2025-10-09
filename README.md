@@ -6,7 +6,7 @@ _Soluções integradas de suporte técnico com IA para empresas que buscam efici
 
 <p align="center">
   | <a href ="#sobre"> Sobre</a>  |
-  <a href ="#backlog"> Backlog do Produto</a>  |
+  <a href ="#backlog"> Backlog</a>  |
   <a href ="#cronograma"> Cronograma de Desenvolvimento</a>  |
   <a href ="#sprint"> Cronograma de Sprints</a>  |
   <a href ="#tecnologias">Tecnologias</a> |
