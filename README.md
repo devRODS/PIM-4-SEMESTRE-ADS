@@ -49,7 +49,7 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINTS 1° Semestre 2025** | 01/03 a 31/05 | [Sprint 1ºSem](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%20do%201%C2%B0%20semestre%20de%202025.md)
+| 🔖 **SPRINTS 1° Semestre 2025** | 01/03 a 31/05 | [Sprint 1ºSem](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%20do%201%C2%B0%20semestre%20de%202025)
 | 🔖 **[SPRINT 1](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%201)**  | 19/08 a 26/08 | [Realizar documentação do GITHUB e ajustar os Casos de Uso]()
 | 🔖 **SPRINT 2** | 26/08 a ? | Conferencia e ajuste dos diagramas do projeto
 | 🔖 **SPRINT 3** | 26/08 a 05/09 | Desenvolvimento Web - Frontend
