@@ -56,21 +56,14 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 | 🔖 **SPRINT 5** | A Definir | Desenvolvimento Web - Conexão com Banco de dados
 
 
-## 💻 Tecnologias <a id="tecnologias"></a>
+## 💻 Tecnologias utilizadas <a id="tecnologias"></a>
 
 <h4 align="center">
  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
- <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
- <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
- <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></a>
- <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
- <a href="https://www.trychroma.com/"><img src="https://img.shields.io/badge/ChromaDB-FF6B00?style=for-the-badge&logo=chroma&logoColor=white"></a>
- <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
- <a href="https://miro.com/"><img src="https://img.shields.io/badge/Miro-1A1A1A?style=for-the-badge&logo=miro&logoColor=white"/></a>
- <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
- <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+  <a href="https://dotnet.microsoft.com/"><img src=https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000/></a>
+  
+ 
 </h4>
 
 ## 🎓 Equipe <a id="equipe"></a>
