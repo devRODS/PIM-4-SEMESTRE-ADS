@@ -61,7 +61,7 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 <h4 align="center">
  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-  <a href="https://dotnet.microsoft.com/"><img src=https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000/></a>
+  <a href="https://dotnet.microsoft.com/"><img src=https://img.icons8.com/?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
   
  
 </h4>
