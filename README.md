@@ -73,6 +73,7 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 
 ## 🛠 Estrutura do Projeto
 
+[Confira a Estrutura do Projeto](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/frontend/README.md)
 
 
 ## 📖 Manual de Instalação
