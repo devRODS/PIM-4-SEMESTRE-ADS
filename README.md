@@ -71,7 +71,9 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
  
 </h4>
 
-## Estrutura do Projeto
+## 🛠 Estrutura do Projeto
+
+
 
 
 ## 🎓 Equipe <a id="equipe"></a>
