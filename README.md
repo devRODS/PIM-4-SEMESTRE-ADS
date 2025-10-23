@@ -22,8 +22,9 @@ _Soluções integradas de suporte técnico com IA para empresas que buscam efici
 ---
 
 ## 🏅 Desafio
-
-O desafio deste Trabalho de Conclusão de Curso consiste em desenvolver um sistema de Help Desk com Inteligência Artificial integrada, voltado para plataformas web, desktop e mobile. O sistema tem como objetivo otimizar o atendimento técnico e a gestão de chamados, oferecendo recursos inteligentes para triagem automática, priorização de tickets, e sugestões de solução baseadas em histórico e aprendizado de máquina. A aplicação deve permitir o registro e acompanhamento de chamados por parte dos usuários, além de oferecer uma interface administrativa para controle, análise e resposta dos atendimentos. A integração com IA possibilitará respostas automáticas e assistivas, reduzindo o tempo de resolução e aprimorando a experiência do usuário. Todas as interações, chamados e respostas geradas serão armazenadas em um banco de dados, permitindo análises posteriores e melhorias contínuas do sistema, inclusive no desempenho dos módulos de inteligência artificial.
+<p style="font-family: Arial; font-size: 12px;">
+O desafio deste Trabalho consiste em desenvolver um sistema de Help Desk com Inteligência Artificial integrada, voltado para plataformas web, desktop e mobile. O sistema tem como objetivo otimizar o atendimento técnico e a gestão de chamados, oferecendo recursos inteligentes para triagem automática, priorização de tickets, e sugestões de solução baseadas em histórico e aprendizado de máquina. A aplicação deve permitir o registro e acompanhamento de chamados por parte dos usuários, além de oferecer uma interface administrativa para controle, análise e resposta dos atendimentos. A integração com IA possibilitará respostas automáticas e assistivas, reduzindo o tempo de resolução e aprimorando a experiência do usuário. Todas as interações, chamados e respostas geradas serão armazenadas em um banco de dados, permitindo análises posteriores e melhorias contínuas do sistema, inclusive no desempenho dos módulos de inteligência artificial.
+</p>
 ---
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
