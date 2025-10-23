@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="helpdesksmile.png" alt="Banner HelpDesk" width="600">
+    <img src="https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/helpdesksmile.png" alt="Banner HelpDesk" width="600"/>
   </a>
 </h1>
 
