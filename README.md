@@ -77,8 +77,81 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 
 
 ## 📖 Manual de Instalação
-🛠 Pré-requisitos
-...
+
+### 🛠 Pré-requisitos
+
+- Git ([Download](https://git-scm.com/downloads))
+
+- Python 3.9+ ([Download](https://www.python.org/downloads/))
+
+- Node.js 16+ ([Download](https://nodejs.org/en/download))
+
+- Poetry (opcional para o backend) ([Download](https://python-poetry.org/))
+
+---
+
+### 1. Clonar o Repositório Principal
+
+```bash
+git clone --recurse-submodules https://github.com/BuzzTech-API/API_ADS_6SEMESTE_2025.1.git
+cd API_ADS_6SEMESTE_2025.1
+```
+
+> **Observação:** Se já tiver clonado sem os submódulos, execute:
+
+```
+git submodule update --init --recursive
+```
+
+---
+
+### 2. Configuração do Backend (auxia-backend)
+
+**1° Adicione as variáveis no .env**
+
+**2° Inicialize o Banco de dados MongoDB no localhost:**
+
+**3° Coloque a base de dados vetorizada ./client dentro da raíz do backen:**
+
+**4° Instale e Inicie a aplicação:**
+
+**Opção A: Com Poetry**
+
+```bash
+cd ./auxia-backend
+poetry shell
+poetry install
+make run
+```
+
+**Opção B: Com Ambiente Virtual Python**
+
+```bash
+cd ./auxia-backend
+python3 -m venv venv
+source venv/bin/activate # se você usa linux
+venv/Scripts/activate 	 # se você usa windows
+pip install -r requirements.txt
+fastapi dev ./auxia/main.py
+```
+
+**Saída Esperada:**
+<br>
+Servidor rodando em `http://localhost:8000` (acesse `http://localhost:8000/docs` para a UI do Swagger).
+
+---
+
+### 3. Configuração do Frontend (auxia-frontend)
+
+```bash
+cd ../auxia-frontend/auxia
+npm install
+npm run dev
+```
+
+**Saída Esperada:**
+<br>
+Frontend rodando em `http://localhost:5173`.
 
 
 
