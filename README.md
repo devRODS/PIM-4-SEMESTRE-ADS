@@ -35,7 +35,7 @@ O Backlog do Produto foi estruturado em formato de tabela para facilitar o acomp
 
 Acesse a tabela do Backlog do Produto pelo link abaixo:
 
-[Link para a tabela de Backlog do Produto](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Backlog)
+[Link para a tabela de Backlog do Produto](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Backlog](https://github.com/devRODS/Backlog-))
 
 ---
 
