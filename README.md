@@ -2,7 +2,7 @@
 
 <p align="center">
       <img src="img/helpdesksmile.png" width="200">
-      <h2 align="center"> Buzz Tech</h2>
+      <h2 align="center"> Help Desk</h2>
 </p>
 
 _Soluções integradas de suporte técnico com IA para empresas que buscam eficiência e organização._
