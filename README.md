@@ -7,7 +7,7 @@ _Soluções integradas de suporte técnico com IA para empresas que buscam efici
 <p align="center">
   | <a href ="#sobre"> Sobre</a>  |
   <a href ="#backlog"> Backlog</a>  |
-  <a href ="#cronograma"> Cronograma de Desenvolvimento</a>  |
+  <a href ="#cronograma"> Cronograma de Evolução do Projeto</a>  |
   <a href ="#sprint"> Cronograma de Sprints</a>  |
   <a href ="#tecnologias">Tecnologias</a> |
   <a href ="#equipe"> Equipe</a> |
