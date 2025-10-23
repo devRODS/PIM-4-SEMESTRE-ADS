@@ -40,9 +40,9 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 
 ---
 
-## 📅 Cronograma de Desenvolvimento de Projeto <a id="cronograma"></a>
+## 📅 Cronograma de Evolução do Projeto <a id="cronograma"></a>
 
-[Confira de forma visual](https://github.com/devRODS/Backlog-)
+[Confira de forma visual](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/img/README.md)
 
 ---
 
