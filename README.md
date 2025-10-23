@@ -59,10 +59,9 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 ## 💻 Tecnologias utilizadas <a id="tecnologias"></a>
 
 <h4 align="center">
- <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
- <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/https%3A%2F%2Ficons8.com%2Ficon%2F1BC75jFEBED6%2Fnet-framework
-"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/https%3A%2F%2Ficons8.com%2Ficon%2F1BC75jFEBED6%2Fnet-framework"/></a>
   
  
 </h4>
