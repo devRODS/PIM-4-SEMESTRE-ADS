@@ -1,7 +1,7 @@
 # HelpDesk - Revolucionando o Suporte Técnico com Inteligência Artificial
 
 <p align="center">
-      <img src="img/helpdesksmile.png" alt="logo da Buzz Tech" width="200">
+      <img src="img/helpdesksmile.png" width="200">
       <h2 align="center"> Buzz Tech</h2>
 </p>
 
