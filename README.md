@@ -1,7 +1,7 @@
 # HelpDesk - Revolucionando o Suporte Técnico com Inteligência Artificial
 
 <p align="center">
-      <img src="PIM-4-SEMESTRE/helpdesksmile.png" alt="Logo HelpDesk" width="200">
+      <img src="PIM-4-SEMESTRE/img/helpdesksmile.png" alt="Logo HelpDesk" width="200">
       <h2 align="center"> Help Desk</h2>
 </p>
 
