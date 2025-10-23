@@ -35,13 +35,13 @@ O Backlog do Produto foi estruturado em formato de tabela para facilitar o acomp
 
 Acesse a tabela do Backlog do Produto pelo link abaixo:
 
-[Link para a tabela de Backlog do Produto](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Backlog)
+[Link para a tabela de Backlog do Produto](https://github.com/devRODS/Backlog-)
 
 ---
 
 ## 📅 Cronograma de Desenvolvimento de Projeto <a id="cronograma"></a>
 
-[Confira de forma visual](https://github.com/users/dev-joaogabriel/projects/5/views/2)
+[Confira de forma visual](https://github.com/devRODS/Backlog-)
 
 ---
 
