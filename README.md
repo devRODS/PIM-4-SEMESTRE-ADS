@@ -75,6 +75,12 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 
 
 
+## 📖 Manual de Instalação
+🛠 Pré-requisitos
+...
+
+
+
 
 ## 🎓 Equipe <a id="equipe"></a>
 
