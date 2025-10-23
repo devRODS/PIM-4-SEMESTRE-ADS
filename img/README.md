@@ -1,4 +1,4 @@
-## 🗓️ Cronograma de Desenvolvimento
+## 🗓️ Cronograma de evolução do Projeto
 
 | Etapa | Março | Abril | Maio | Junho | Julho | Agosto | Setembro | Outubro | Novembro |
 |-------|:-----:|:-----:|:----:|:----:|:----:|:------:|:--------:|:-------:|:--------:|
