@@ -1,6 +1,10 @@
 # HelpDesk - Revolucionando o Suporte Técnico com Inteligência Artificial
 
-![Logo](helpdesksmile.png)
+<h1>
+  <a>
+    <img src="https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/helpdesksmile.png"/>
+  </a>
+</h1>
 
 _Soluções integradas de suporte técnico com IA para empresas que buscam eficiência e organização._
 
