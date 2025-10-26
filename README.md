@@ -85,19 +85,19 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 
 - Git ([Download](https://git-scm.com/downloads))
 
-- Python 3.9+ ([Download](https://www.python.org/downloads/))
+- .NET ([Download](https://dotnet.microsoft.com/pt-br/))
 
-- Node.js 16+ ([Download](https://nodejs.org/en/download))
+- SQL Server ([Download](https://www.microsoft.com/en-us/download/details.aspx?id=104781))
 
-- Poetry (opcional para o backend) ([Download](https://python-poetry.org/))
+- Electron (opcional) ([Download](https://www.electronjs.org/))
 
 ---
 
 ### 1. Clonar o Repositório Principal
 
 ```bash
-git clone --recurse-submodules https://github.com/BuzzTech-API/API_ADS_6SEMESTE_2025.1.git
-cd API_ADS_6SEMESTE_2025.1
+git clone --recurse-submodules https://github.com/devRODS/PIM-4-SEMESTRE-ADS.git
+cd PIM-4-SEMESTRE-ADS
 ```
 
 > **Observação:** Se já tiver clonado sem os submódulos, execute:
@@ -112,30 +112,21 @@ git submodule update --init --recursive
 
 **1° Adicione as variáveis no .env**
 
-**2° Inicialize o Banco de dados MongoDB no localhost:**
+**2° Inicialize o Banco de dados SQL Server no localhost:**
 
 **3° Coloque a base de dados vetorizada ./client dentro da raíz do backen:**
 
 **4° Instale e Inicie a aplicação:**
 
-**Opção A: Com Poetry**
+**Com Ambiente Virtual C#**
 
 ```bash
 cd ./auxia-backend
-poetry shell
-poetry install
-make run
-```
-
-**Opção B: Com Ambiente Virtual Python**
-
-```bash
-cd ./auxia-backend
-python3 -m venv venv
+ -m venv venv
 source venv/bin/activate # se você usa linux
 venv/Scripts/activate 	 # se você usa windows
 pip install -r requirements.txt
-fastapi dev ./auxia/main.py
+fastapi dev ./auxia/main.net
 ```
 
 **Saída Esperada:**
