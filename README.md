@@ -28,10 +28,6 @@ O desafio deste Trabalho consiste em desenvolver um sistema de Help Desk com Int
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
-Neste processo, foram levantadas e organizadas todas as funcionalidades, melhorias e correções necessárias para o desenvolvimento do sistema, com base nos requisitos do projeto. Cada item foi detalhado com descrições claras, prioridades definidas e estimativas iniciais, permitindo uma visão estruturada e priorizada das demandas.
-
-O Backlog do Produto foi estruturado em formato de tabela para facilitar o acompanhamento, atualização e planejamento das sprints futuras.
-
 Acesse a tabela do Backlog do Produto pelo link abaixo:
 
 [Link para a tabela de Backlog do Produto](https://github.com/devRODS/Backlog-)
@@ -45,14 +41,13 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 ---
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
-
-                                   
-
+                              
 [🔖 **SPRINT 1 - 19/08**](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%20do%201%C2%B0%20semestre%20de%202025)
 [🔖 **SPRINT 2 - 29/09**](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%202)
 [🔖 **SPRINT 3 - 01/10**](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%203)
 [🔖 **SPRINT 4 - 15/10**](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%203)
 
+---
 
 ## 💻 Tecnologias utilizadas <a id="tecnologias"></a>
 
@@ -63,11 +58,10 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
   <a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlebard&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
   <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah_UML-EB5E28?style=for-the-badge&logoColor=white"/></a>
-
-  
- 
+  <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah_UML-EB5E28?style=for-the-badge&logoColor=white"/></a> 
 </h4>
+
+---
 
 ## 🛠 Estrutura do Projeto
 
