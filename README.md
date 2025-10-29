@@ -1,10 +1,5 @@
 # HelpDesk - Revolucionando o Suporte Técnico com Inteligência Artificial
 
-<p align="center">
-      <img src="img/helpdesksmile.png" width="200">
-      <h2 align="center"> Help Desk</h2>
-</p>
-
 _Soluções integradas de suporte técnico com IA para empresas que buscam eficiência e organização._
 
 <p align="center">
