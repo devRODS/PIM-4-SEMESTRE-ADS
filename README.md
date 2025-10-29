@@ -19,7 +19,7 @@ _Soluções integradas de suporte técnico com IA para empresas que buscam efici
 
 ---
 
-## 🏅 Desafio
+## 🏅 Descrição do Desafio
 <p style="font-family: Arial; font-size: 12px;">
 O desafio deste Trabalho consiste em desenvolver um sistema de Help Desk com Inteligência Artificial integrada, voltado para plataformas web, desktop e mobile. O sistema tem como objetivo otimizar o atendimento técnico e a gestão de chamados, oferecendo recursos inteligentes para triagem automática, priorização de tickets, e sugestões de solução baseadas em histórico e aprendizado de máquina. A aplicação deve permitir o registro e acompanhamento de chamados por parte dos usuários, além de oferecer uma interface administrativa para controle, análise e resposta dos atendimentos. A integração com IA possibilitará respostas automáticas e assistivas, reduzindo o tempo de resolução e aprimorando a experiência do usuário. Todas as interações, chamados e respostas geradas serão armazenadas em um banco de dados, permitindo análises posteriores e melhorias contínuas do sistema, inclusive no desempenho dos módulos de inteligência artificial.
 </p>
@@ -28,9 +28,9 @@ O desafio deste Trabalho consiste em desenvolver um sistema de Help Desk com Int
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
-Acesse a tabela do Backlog do Produto pelo link abaixo:
 
-[Link para a tabela de Backlog do Produto](https://github.com/devRODS/Backlog-)
+
+[Acesse a tabela de Backlog do Produto](https://github.com/devRODS/Backlog-)
 
 ---
 
@@ -40,15 +40,9 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 
 ---
 
-## 📅 Cronograma de Sprints <a id="sprint"></a>
+## 📋 Tabela descritiva das Sprints <a id="sprint"></a>
                               
-[🔖 **SPRINT 1 - 19/08**](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%20do%201%C2%B0%20semestre%20de%202025) 
-
-[🔖 **SPRINT 2 - 29/09**](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%202) 
-
-[🔖 **SPRINT 3 - 01/10**](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%203) 
-
-[🔖 **SPRINT 4 - 15/10**](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%203) 
+[Acesse as sprints]()
 
 ---
 
