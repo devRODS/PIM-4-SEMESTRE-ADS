@@ -77,9 +77,8 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 -
 
 ## Link para pasta de documentação
-""
-""
-""
+
+[Acesse a Pasta de Documentação](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Documenta%C3%A7%C3%A3o/README.md)
 
 
 
