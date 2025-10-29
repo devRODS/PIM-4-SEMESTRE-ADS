@@ -51,9 +51,9 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
-| Sprint          |    Período    | Documentação                                     |
-| --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 01/03 - 31/05 | [Sprint 1 Docs](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%20do%201%C2%B0%20semestre%20de%202025)
+                                   
+
+| [🔖 **SPRINT 1 - 19/08** |](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%20do%201%C2%B0%20semestre%20de%202025)
 | 🔖 **SPRINT 2** | 26/08 - ? | [Sprint 2 Docs](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%202)
 | 🔖 **SPRINT 3** | 26/08 - ? | [Sprint 3 Docs](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%203)
 
