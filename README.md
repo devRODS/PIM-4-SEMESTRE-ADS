@@ -53,10 +53,10 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 
                                    
 
-| [🔖 **SPRINT 1 - 19/08** |](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%20do%201%C2%B0%20semestre%20de%202025)
-| 🔖 **SPRINT 2** | 26/08 - ? | [Sprint 2 Docs](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%202)
-| 🔖 **SPRINT 3** | 26/08 - ? | [Sprint 3 Docs](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%203)
-
+[🔖 **SPRINT 1 - 19/08**](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%20do%201%C2%B0%20semestre%20de%202025)
+[🔖 **SPRINT 2 - 29/09**](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%202)
+[🔖 **SPRINT 3 - 01/10**](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%203)
+[🔖 **SPRINT 4 - 15/10**](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Sprint%203)
 
 
 ## 💻 Tecnologias utilizadas <a id="tecnologias"></a>
@@ -77,6 +77,64 @@ Acesse a tabela do Backlog do Produto pelo link abaixo:
 ## 🛠 Estrutura do Projeto
 
 [Confira a Estrutura do Projeto](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/frontend/README.md)
+
+
+## Como Executar, usar e testar o projeto
+""
+""
+-
+
+## Link para pasta de documentação
+""
+""
+""
+
+
+
+## 🎓 Equipe <a id="equipe"></a>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Membro</th>
+      <th>Função</th>
+      <th>Github</th>
+      <th>Linkedin</th>
+    </tr>
+      <tr>
+      <td>Jonas Rubio</td>
+      <td>Product Owner</td>
+      <td><a href="https://github.com/JSRubioo"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+      <td><a href="http://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    </tr>
+       <tr>
+      <td>João Gabriel</td>
+      <td>Scrum Master</td>
+      <td><a href="https://github.com/dev-joaogabriel"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+      <td><a href="http://linkedin.com/in/reosilva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td>Rodrigo Oliveira</td>
+      <td>DEV</td>
+      <td><a href="https://github.com/devRODS"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+      <td><a href="http://linkedin.com/in/reosilva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    </tr>
+     <tr>
+      <td>Breno Rodney</td>
+      <td>DEV</td>
+      <td><a href="https://github.com/acreditar"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+      <td><a href="http://linkedin.com/in"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    </tr>
+       <tr>
+      <td>Kaua Castro</td>
+      <td>DEV</td>
+      <td><a href="https://github.com/kauacsilva"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+      <td><a href="http://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    </tr>
+  </table>
+</div>
+
+
 
 
 ## 📖 Manual de Instalação
@@ -150,45 +208,4 @@ Frontend rodando em `http://localhost:5173`.
 
 
 
-## 🎓 Equipe <a id="equipe"></a>
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Membro</th>
-      <th>Função</th>
-      <th>Github</th>
-      <th>Linkedin</th>
-    </tr>
-      <tr>
-      <td>Jonas Rubio</td>
-      <td>Product Owner</td>
-      <td><a href="https://github.com/JSRubioo"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-      <td><a href="http://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-       <tr>
-      <td>João Gabriel</td>
-      <td>Scrum Master</td>
-      <td><a href="https://github.com/dev-joaogabriel"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-      <td><a href="http://linkedin.com/in/reosilva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td>Rodrigo Oliveira</td>
-      <td>DEV</td>
-      <td><a href="https://github.com/devRODS"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-      <td><a href="http://linkedin.com/in/reosilva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-     <tr>
-      <td>Breno Rodney</td>
-      <td>DEV</td>
-      <td><a href="https://github.com/acreditar"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-      <td><a href="http://linkedin.com/in"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-       <tr>
-      <td>Kaua Castro</td>
-      <td>DEV</td>
-      <td><a href="https://github.com/kauacsilva"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-      <td><a href="http://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-  </table>
-</div>
