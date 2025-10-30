@@ -38,24 +38,27 @@ O desafio deste Trabalho consiste em desenvolver um sistema de Help Desk com Int
 
 ## 🛠 Estrutura do Projeto
 
-[➡️ Confira a Estrutura do Projeto](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/frontend/README.md)
+[➡️ Confira a Estrutura do Projeto](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Documenta%C3%A7%C3%A3o/EstruturaDoProjeto.md)
 
-----
+---
 
-## Como Executar, usar e testar o projeto
-""
-""
--
+## 📜 Como Executar, usar e testar o projeto
 
-## Link para pasta de documentação
+[➡️ Acesse Execução e Testes do Projeto](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Documenta%C3%A7%C3%A3o/Execu%C3%A7%C3%A3o%20e%20Testes%20do%20Projeto.md)
+
+---
+
+##  🔗 Link para pasta de documentação
 
 [➡️ Acesse a Pasta de Documentação](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/tree/main/Documenta%C3%A7%C3%A3o)
 
-
+---
 
 ## 🎓 Equipe <a id="equipe"></a>
 
 [➡️ Confira nossa equipe](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Documenta%C3%A7%C3%A3o/Equipe.md)
+
+---
 
 
 
