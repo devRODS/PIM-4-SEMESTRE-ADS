@@ -20,7 +20,7 @@ O desafio deste Trabalho consiste em desenvolver um sistema de Help Desk com Int
 
 ## 📅 Cronograma de Evolução do Projeto <a id="cronograma"></a>
 
-[➡️ Confira de forma visual](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/img/README.md)
+[➡️ Confira de forma visual](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/blob/main/Documenta%C3%A7%C3%A3o/Diagrama%20de%20Gantt.md)
 
 ---
 
