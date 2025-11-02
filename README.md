@@ -52,6 +52,19 @@ O desafio deste Trabalho consiste em desenvolver um sistema de Help Desk com Int
 
 [➡️ Acesse a Pasta de Documentação](https://github.com/devRODS/PIM-4-SEMESTRE-ADS/tree/main/Documenta%C3%A7%C3%A3o)
 
+### 🏃‍ [DoR - Definition of Ready]
+
+* [Checklist Geral](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/Checklist_DoR_DoD.md)
+* [DoR e DoD por sprint](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR_DoD_por_sprint.md)
+ 
+### 🏆 [DoD - Definition of Done]
+
+* [Checklist Geral](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/Checklist_DoR_DoD.md)
+* [DoR e DoD por sprint](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR_DoD_por_sprint.md)
+    * [Código completo](https://github.com/kauacsilva/HelpDesk/tree/main/Codigo)
+    * [Manual de Usuário](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/Manual%20do%20Usuario.md)
+    * [Manual da Aplicação](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/Manual%20de%20Aplica%C3%A7%C3%A3o.md)
+      
 ---
 
 ## 🎓 Equipe <a id="equipe"></a>
