@@ -12,7 +12,7 @@
       <td>Jonas Rubio</td>
       <td>Product Owner</td>
       <td><a href="https://github.com/JSRubioo"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-      <td><a href="http://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/jonas-rubio-22077a1bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
        <tr>
       <td>João Gabriel</td>
@@ -36,7 +36,7 @@
       <td>Kaua Castro</td>
       <td>DEV</td>
       <td><a href="https://github.com/kauacsilva"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-      <td><a href="http://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/kau%C3%A3-castro-565b211ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
   </table>
 </div>
