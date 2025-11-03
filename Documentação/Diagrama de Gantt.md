@@ -1,6 +1,6 @@
 ```mermaid
 gantt
-    title Roadmap / Previsão - OkinawaDesk com IA
+    title Roadmap / Previsão - ZenDesk com IA
     dateFormat  YYYY-MM-DD
     axisFormat  %d/%m
 
